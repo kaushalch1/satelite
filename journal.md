@@ -54,3 +54,14 @@ I added the footprints for each part by searching their with their lscs number o
 
 
 -------
+# date:18/9
+# time spent:1.75hr
+## description:
+I routed all the wires in the pcb and also fixed all the drc errors.And checked everything is fine in 3d viewer.in routing i had connected the wires and used vias to move between each layer so that the wires don't get struck in a point.
+## images:
+<img width="471" height="492" alt="image" src="https://github.com/user-attachments/assets/3823b2be-0917-4d9d-be6b-a3dd6396e3b2" />
+<img width="598" height="693" alt="image" src="https://github.com/user-attachments/assets/111c0e3d-5e93-4320-b9e0-03cf69b5ee7e" />
+<img width="1573" height="878" alt="image" src="https://github.com/user-attachments/assets/633dec09-9c8e-4324-a305-17f52f72b66a" />
+
+-------
+
