@@ -62,7 +62,9 @@ MISSION: ACTIVE
 ```
 ##pcb:
 <img width="975" height="543" alt="image" src="https://github.com/user-attachments/assets/5374e775-5039-4a42-8125-8302120da982" />
-<img width="598" height="693" alt="image" src="https://github.com/user-attachments/assets/1c9bebd0-76bb-489f-8009-38943909d390" />
+<img width="480" height="560" alt="image" src="https://github.com/user-attachments/assets/0cc59165-4514-485e-8996-50228ea43d48" />
+<img width="472" height="547" alt="image" src="https://github.com/user-attachments/assets/009bf15f-a58b-410e-b261-e99d8c30d06b" />
+
 <img width="1573" height="878" alt="image" src="https://github.com/user-attachments/assets/fcd0f057-752c-4107-8092-3a6eef77a8ca" />
 <img width="725" height="567" alt="image" src="https://github.com/user-attachments/assets/80ac2df1-89ea-41f0-a7a6-ca47c026b780" />
 <img width="1457" height="183" alt="image" src="https://github.com/user-attachments/assets/6b032a15-0751-4274-8096-beffc9e196bb" />
