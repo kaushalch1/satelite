@@ -25,7 +25,7 @@ In Blocks 4 through 6, I built out the environmental logging, flight data storag
 
 -------
 # date:18/9
-# time spent:1hr
+# time spent:1.25hr
 ## description:
 In Blocks 7 through 9, I wrapped up the schematic for my satelite project by adding visual feedback, user controls, reverse-voltage protection, and final power filtering. For Block 7, I integrated a WS2812B addressable RGB LED to serve as the satellite's primary status indicator—hooking up its data input (`DIN`) to GPIO17 and decoupling its 3.3V power supply with a 100nF capacitor. Moving to Block 8, I added an active buzzer on a dedicated GPIO pin for audio alerts alongside four mission push buttons (`UP`, `DOWN`, `SELECT`, `BACK`) wired to GPIO13, GPIO12, GPIO26, and GPIO25 with internal pull-up resistors, giving me full local control over the system's software modes. Finally, in Block 9, I finalized the power stage by adding a Schottky diode in series with the positive input rail to protect against reverse-polarity damage, backed by bulk decoupling capacitors across the 3.3V rail to keep the system's power clean and stable before heading into PCB layout.
 ## images:
